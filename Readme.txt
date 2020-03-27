@@ -30,3 +30,8 @@ Description   : NIUBI Partition Editor
 CompanyName   : NIUBI Technology
 Virus Analysis: 0/73 (virus total)
 https://www.virustotal.com/gui/file/02f7fbfc4d2609dfafb9dbb0a060343ef72635c0e3342cd6b1a9e876f44179ad/details
+
+Additional Notes:
+1. gunakan folder "x64" untuk windows yang 64 bit. atau gunakan "x86" untuk windows yang 32 bit
+2. untuk memakai aplikasi, jalankan "npe.exe" baik pada folder "x64" maupun folder "x86" sesuai dengan windows yang terinstall
+3. jika ingin memakai edisi lain, anda bisa gunakan serial number yang ada atau dianjurkan untuk membeli lisensi dari official web yang tersedia.
